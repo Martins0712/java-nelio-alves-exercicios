@@ -8,7 +8,7 @@ Este repositório reúne os exercícios desenvolvidos durante o curso de Java do
 - ✅ Seção 13 - Herança e Polimorfismo
 - ✅ Seção 14 - Exceptions
 - ✅ Seção 15 - Interfaces
-- ⏳ Seção 16 - Generics, Set e Map
+- ✅ Seção 16 - Generics, Set e Map
 - ⏳ Seção 17 - Programação Funcional e Stream API
 - ⏳ Seção 18 - JDBC
 - ⏳ Seção 19 - Spring Boot
